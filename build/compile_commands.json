@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/opt/CppProjects/ThreadPool/build",
+  "command": "/usr/bin/clang++  -I/opt/CppProjects/ThreadPool/includes -g -std=gnu++20 -o CMakeFiles/ThreadPool.dir/src/thread_pool.cpp.o -c /opt/CppProjects/ThreadPool/src/thread_pool.cpp",
+  "file": "/opt/CppProjects/ThreadPool/src/thread_pool.cpp"
+},
+{
+  "directory": "/opt/CppProjects/ThreadPool/build",
+  "command": "/usr/bin/clang++  -I/opt/CppProjects/ThreadPool/includes -g -std=gnu++20 -o CMakeFiles/ThreadPool.dir/src/main.cpp.o -c /opt/CppProjects/ThreadPool/src/main.cpp",
+  "file": "/opt/CppProjects/ThreadPool/src/main.cpp"
+}
+]

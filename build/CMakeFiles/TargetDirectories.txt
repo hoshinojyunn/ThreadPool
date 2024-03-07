@@ -1,0 +1,3 @@
+/opt/CppProjects/ThreadPool/build/CMakeFiles/ThreadPool.dir
+/opt/CppProjects/ThreadPool/build/CMakeFiles/edit_cache.dir
+/opt/CppProjects/ThreadPool/build/CMakeFiles/rebuild_cache.dir
