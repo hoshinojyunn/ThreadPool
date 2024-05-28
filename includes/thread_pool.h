@@ -47,6 +47,7 @@ private:
 
 template<class Callable, class...Args>
 auto ThreadPool::submit(Callable&&func, Args&&...args) {
+    // decltype(func(args...))返回func(args...)调用后的返回类型
     using reture_type = decltype(func(args...));
     //function->std::function<return_type()>
     auto function = std::bind(std::forward<Callable>(func), std::forward<Args>(args)...);
